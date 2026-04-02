@@ -8,9 +8,9 @@ A data analysis project that explores a movie dataset using Python. The project 
 
 | Field | Details |
 |------|--------|
-| Name | Aman Juyal |
-| Roll No. | 24CE-13 |
-| Enrollment No. | 2472132 |
+| Name | Dipanshu Choudhary |
+| Roll No. | 24CE-37 |
+| Enrollment No. | 2472149 | 
 
 ---
 
